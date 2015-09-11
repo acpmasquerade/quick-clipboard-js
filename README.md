@@ -1,5 +1,9 @@
 # quick-clipboard-js
-Simple, and works.
+Simple, and works. For internal purposes.
+
+# @todo
+Copy to memory. 
+`document.execCommand("copy" ... )`
 
 Started with this fiddle : http://jsfiddle.net/eatchocolate/t91qsvah/
 
